@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5c04fcb64bb33994da19569e5cde19d3, type: 3}
+  m_Name: Coal
+  m_EditorClassIdentifier: 
+  tileName: Coal
+  wallVariant: {fileID: 11400000, guid: 05cc69aef4913be4c8dd1e56585c5c55, type: 2}
+  tileSprites:
+  - {fileID: 21300000, guid: fac1728a38cee00428911e98adea94a7, type: 3}
+  - {fileID: 21300000, guid: 394a777b57c548b4e97019d1080ebec4, type: 3}
+  inBackGround: 0
+  tileDrop: {fileID: 11400000}
+  naturallyPlaced: 1
+  isStackAble: 1
+  toolToBreak: 1

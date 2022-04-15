@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c7b4e1e2919c19542b8dea6b85ebe5aa
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grass: {instanceID: 0}
+  - dirt: {instanceID: 0}
+  - stone: {instanceID: 0}
+  - log: {instanceID: 0}
+  - leaf: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
